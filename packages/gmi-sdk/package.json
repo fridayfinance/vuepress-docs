@@ -1,0 +1,31 @@
+{
+  "name": "@airbank/gmi-sdk",
+  "author": {
+    "email": "ali@joinairbank.com",
+    "name": "Ali Turki"
+  },
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "bugs": "https://github.com/joinairbank/airbank/issues",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "tsc": "tsc"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.7.0"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
