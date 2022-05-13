@@ -14,7 +14,8 @@
     "lib"
   ],
   "bugs": "https://github.com/joinairbank/airbank/issues",
-  "homepage": "https://github.com/joinairbank/airbank/tree/master/packages/gmi-sdk",
+  "homepage": "https://joinairbank.github.io/airbank/",
+  "repository": "https://github.com/joinairbank/airbank",
   "publishConfig": {
     "access": "public"
   },
