@@ -1,0 +1,19 @@
+{
+  "name": "airbank-os",
+  "version": "0.0.1",
+  "description": "open source projects by airbank",
+  "main": "index.js",
+  "authors": {
+    "name": "Ali Turki",
+    "email": "ali@joinairbank.com"
+  },
+  "repository": "https://github.com/joinairbank/airbank/airbank-os",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
