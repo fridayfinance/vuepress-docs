@@ -1,7 +1,7 @@
 const { description } = require('../../package')
 
 module.exports = {
-  base: "https://joinairbank.github.io/airbank/",
+  base: "/airbank/",
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
